@@ -1,0 +1,50 @@
+nav a:hover{
+    text-decoration:underline;
+}
+.tarjeta-producto {
+    border: 1px solid #0a0a0a;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #ffff;
+    margin-top:20px;
+}
+.imagen-producto {
+    max-width: 100%;
+    height: auto;
+    max-height: 100px;
+    max-width: 300px;
+}
+.cantidad {
+    font-weight: bold;
+    margin-top: 10px;
+    border-color:2px solid black;
+}
+.etiqueta-cantidad {
+    display: inline-block;
+    width: 50px;
+    text-align: left;
+}
+
+.valor-cantidad {
+    display: inline-block;
+    width: 30px;
+    text-align: center;
+    border: 1px solid #0f0f0f; width:40px;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
+.precio {
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Descripcion {
+    border: 1px solid black;
+    border-radius:5px;
+    font-size:17px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top:10px
+}
